@@ -28,4 +28,4 @@ max-nested-blocks=2
 [DESIGN]
 
 max-statements=15
-max-complexity=3
+max-complexity=4
